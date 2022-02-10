@@ -1,3 +1,4 @@
+package Lecture1;
 import java.util.Scanner;
 
 class Hello{
